@@ -10,4 +10,4 @@ editor_options:
 
 [pingwiny](analysis/palmer_penguins_cwiczenia.Rmd)
 
-Welcome to my research website.
+Fajna stronka, az dziwne że się odpala.
