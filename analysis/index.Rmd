@@ -8,6 +8,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-[pingwiny](analysis/palmer_penguins_cwiczenia.Rmd)
+[pingwiny](palmer_penguins_cwiczenia.Rmd)
 
 Welcome to my research website.
